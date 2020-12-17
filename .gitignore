@@ -1,2 +1,5 @@
 *.DS_Store
-__pycache__/
+lab4/__pycache__/
+lab4/env/
+lab5/__pycache__/
+lab5/env/
